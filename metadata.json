@@ -1,0 +1,6 @@
+{
+  "name": "Kamashuno",
+  "description": "A social media app featuring Reels upload, daily stories, privacy controls, likes, comments, reposts, saves, and friend-restricted messaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
